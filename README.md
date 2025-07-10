@@ -1,2 +1,2 @@
 # Military-Project
-Repo for ongoing and future projects
+<h1>Repo for ongoing and future projects (analysis, OSINT, war games, etc).</h1>
