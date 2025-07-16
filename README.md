@@ -1,5 +1,5 @@
 # Military-Project
-<h1>Repo for projects (analysis & OSINT).</h1>
+<h1>Analysis & OSINT</h1>
 
 <h2>Major powers and permanent members of the UNSC (United Nations Security Council)</h2>
 <h3>U.S.A</h3>
