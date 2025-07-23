@@ -1,5 +1,5 @@
 # Military-Project
-<h1>Analysis & OSINT</h1>
+<h1>OSINT, Analysis, Education</h1>
 
 <h2>
 “In war, truth is the first casualty.”
